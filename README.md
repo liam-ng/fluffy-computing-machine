@@ -15,7 +15,6 @@ Ref 2 Rapid7 Observed Exploitation of Critical MOVEit Transfer Vulnerability htt
 Ref 3 MOVEit Transfer Critical Vulnerability CVE-2023-34362 Rapid Response https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 
 Ref 4 AttackerKB CVE-2023-34362 https://attackerkb.com/topics/mXmV0YpC3W/cve-2023-34362/rapid7-analysis?referrer=search
-![image](https://github.com/liam-ng/fluffy-computing-machine/assets/90180576/7d1fb9e1-0af5-486a-81d8-5bee17cc148e)
 
 ![image](https://github.com/liam-ng/fluffy-computing-machine/assets/90180576/44cf0406-3a15-48e7-918f-93d0078c35eb)
 ![image](https://github.com/liam-ng/fluffy-computing-machine/assets/90180576/fc561669-cc7c-4a96-939a-5a5fe8c36af2)
