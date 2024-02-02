@@ -16,8 +16,10 @@ Ref 3 MOVEit Transfer Critical Vulnerability CVE-2023-34362 Rapid Response https
 
 Ref 4 AttackerKB CVE-2023-34362 https://attackerkb.com/topics/mXmV0YpC3W/cve-2023-34362/rapid7-analysis?referrer=search
 
-![image](https://github.com/liam-ng/fluffy-computing-machine/assets/90180576/44cf0406-3a15-48e7-918f-93d0078c35eb)
-![image](https://github.com/liam-ng/fluffy-computing-machine/assets/90180576/fc561669-cc7c-4a96-939a-5a5fe8c36af2)
+![image](https://github.com/liam-ng/fluffy-computing-machine/assets/90180576/82dbe3b4-c7a9-40f8-a201-ad9ef973337f)
+
+![image](https://github.com/liam-ng/fluffy-computing-machine/assets/90180576/8d7c1f24-b68c-4e64-ac04-78734b4dea37)
+
 
 # Appendix 
 ## Opportunities for Potential Improvement:
@@ -42,3 +44,7 @@ Ref 4 AttackerKB CVE-2023-34362 https://attackerkb.com/topics/mXmV0YpC3W/cve-202
 
 ## Interesting Stats
 - Data breach = [Loss of $180 per record with PII](https://purplesec.us/resources/cyber-security-statistics/)
+
+## Interesting Document
+NIST CSF 2.0 – A Canadian Perspective by Bradley J. Freedman https://cybersecuritylaw.ca/home/2023/10/22/nist-cybersecurity-framework-20-a-canadian-perspective
+NIST Cybersecurity and Privacy Reference Tool: [CPRT](https://csrc.nist.gov/projects/cprt)
